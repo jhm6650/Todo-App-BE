@@ -59,3 +59,9 @@ out
 gen
 build
 rebel.xml
+
+
+# Gradle
+.gradle
+/build/
+.gradletasknamecache
