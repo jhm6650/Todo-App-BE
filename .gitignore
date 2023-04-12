@@ -65,3 +65,6 @@ rebel.xml
 .gradle
 /build/
 .gradletasknamecache
+
+# ignore all files in the build/ directory
+build/
